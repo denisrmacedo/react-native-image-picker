@@ -96,8 +96,6 @@ export default function App({ navigation }) {
             <Image
               style={{ width: 100, height: 100, resizeMode: 'contain' }}
               source={{ uri: response.uri }}
-            // source={{ uri: "file:///Users/denismacedo/Library/Developer/CoreSimulator/Devices/CDAA087E-B9DC-4F2B-888C-66F104BD0F92/data/Containers/Data/Application/A02D533A-4628-493F-9596-A9A2A0E7B497/tmp/CF04B8FC-9730-4BDB-A4C3-E28EFDDA0D89.jpg" }}
-            // source={{ uri: 'https://image.freepik.com/vetores-gratis/perfil-de-avatar-de-mulher-no-icone-redondo_24640-14042.jpg' }}
             />
           </View>
         )}
