@@ -1,6 +1,9 @@
 # react-native-image-picker
 
-![03](https://user-images.githubusercontent.com/5804067/120207627-0c2e8d80-c203-11eb-91d4-e10dfd7e7f82.gif)
+![a1](https://user-images.githubusercontent.com/5804067/120245016-466b4f80-c242-11eb-825e-b6b5439ee07c.gif)
 
-![android](https://user-images.githubusercontent.com/5804067/120244530-d4ded180-c240-11eb-99c5-19a28a400da2.gif)
+![android](https://user-images.githubusercontent.com/5804067/120245941-2ee19600-c245-11eb-9ae7-84dfb0597534.gif)
+
+
+
 
