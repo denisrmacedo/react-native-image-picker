@@ -14,7 +14,7 @@ https://github.com/react-native-image-picker/react-native-image-picker
 
 05 – cd ..
 
-06 – Configuração permissões ios
+06 – Configuração permissões no ios
 
 Acessar o arquivo ios/RNImagePicker/Info.plist e adicionar as seguintes linhas abaixo: 
 
@@ -28,7 +28,7 @@ Acessar o arquivo ios/RNImagePicker/Info.plist e adicionar as seguintes linhas a
 
 OBS: No emulador do IOS só é possível testar a funcionalidade selecionar a imagem da galeria pois para a acessar a camêra esse teste deverá ser executado apenas no aparelho físico.
 
-07 – Configuração permissões android
+07 – Configuração permissões no android
 Segundo a documentação essa biblioteca não requer permissão da câmera no arquivo AndroidManifest.xml
 
 08 – Analisar o exemplo dessa biblioteca nesse link
