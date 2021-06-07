@@ -2,7 +2,7 @@
 Aplicação de estudos React Native para testar a biblioteca react-native-image-picker<br/>
 https://github.com/react-native-image-picker/react-native-image-picker
 
-# INSTRUÇÕES
+# Instruções
 
 01 - npx react-native init RNImagePicker
 
