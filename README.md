@@ -38,11 +38,8 @@ https://github.com/react-native-image-picker/react-native-image-picker/blob/main
 
 10 – react-native run-android
 
-# Projeto rodando no emulador ios<br/>
-![a1](https://user-images.githubusercontent.com/5804067/120245016-466b4f80-c242-11eb-825e-b6b5439ee07c.gif)
-
-# Projeto rodando no emulador android<br/>
-![android](https://user-images.githubusercontent.com/5804067/120245941-2ee19600-c245-11eb-9ae7-84dfb0597534.gif)
+# Projeto rodando no emulador ios e emulador android<br/>
+![a1](https://user-images.githubusercontent.com/5804067/120245016-466b4f80-c242-11eb-825e-b6b5439ee07c.gif) ![android](https://user-images.githubusercontent.com/5804067/120245941-2ee19600-c245-11eb-9ae7-84dfb0597534.gif)
 
 
 
